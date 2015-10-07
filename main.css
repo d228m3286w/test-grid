@@ -1,7 +1,21 @@
 body {
-	background: tomato;
+	background: linear-gradient(green, lightblue);
+}
+
+
+
+.col-xs-1 {
+	border: solid;
+	height: 150px;
+	color: purple;
+	margin: 1px;
+}
+.row {
+	margin-left: 100px;
 
 }
-script {
-	background: green;
+
+p {
+	text-align: center;
+
 }
